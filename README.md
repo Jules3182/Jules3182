@@ -27,5 +27,5 @@
 - ✏️ Blender has become a big hobby of mine and I am looking to apply it to gamedev as well as [ThreeJS](https://github.com/mrdoob/three.js/) projects
 
 
-|   <img src="https://github.com/Jules3182/Jules3182/blob/main/ASCIIPLANT.png?raw=true" width="80%">  | <h2>Check my Stats!</h2><br> [![Julian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jules3182&theme=dark&hide_rank=true)](https://github.com/Jules3182)   |
+|   <img src="https://github.com/Jules3182/Jules3182/blob/main/ASCIIPLANT.png?raw=true" width="40%">  | <h2>Check my Stats!</h2><br> [![Julian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jules3182&theme=dark&hide_rank=true)](https://github.com/Jules3182)   |
 |    --- |   --  |
