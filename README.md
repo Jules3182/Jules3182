@@ -7,7 +7,7 @@
 
 ### So, new year new me right? What are my goals for this year?
 
-- 🐍 I am going to become ~fluent~ in Python
+- 🐍 I am going to become _fluent_ in Python
 - ☕ I am going to nail down my Java skills once and for all
 - 🐧 I have switched over to using Linux on my laptop and intend on getting immersed in the envirnment
 - 🇳🇱 Ik leer Nederland!
