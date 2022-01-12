@@ -1,16 +1,14 @@
-### Hey there, welcome to my Github Page 👋
+## Hey there, welcome to my Github Page 👋
+![Cool Art](https://github.com/Jules3182/Jules3182/blob/main/ASCIICODE.png?raw=true)
+---
+<br />
 
-<!--
-**Jules3182/Jules3182** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My name is Julian Baker, I am a Coder, Maker, Arstist and all in all tech Geek.
 
-Here are some ideas to get you started:
+### So, new year new me right? What are my goals for this year?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🐍 I am going to become ~fluent~ in Python
+- ☕ I am going to nail down my Java skills once and for all
+- 🐧 I have switched over to using Linux on my laptop and intend on getting immersed in the envirnment
+- 🇳🇱 Ik leer Nederland!
+- ✏️ Blender has become a big hobby of mine and I am looking to apply it to gamedev as well as [ThreeJS](https://github.com/mrdoob/three.js/) projects
