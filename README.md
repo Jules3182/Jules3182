@@ -1,5 +1,5 @@
 ## Hey there, welcome to my Github Page 👋
-![Cool Art](https://github.com/Jules3182/Jules3182/blob/main/ASCIICODE.png?raw=true)
+![Cool Art](https://github.com/Jules3182/Jules3182/blob/main/ASCIICODE2.png?raw=true)
 ---
 <br />
 
