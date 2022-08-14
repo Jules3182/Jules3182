@@ -8,7 +8,7 @@
 
   
 
-### My name is Julian Baker, I am a Coder, Maker, Arstist and all in all tech Geek.
+### My name is Julian Baker, I am a Coder, Maker, Artist and all in all tech Geek.
 
   
 
