@@ -12,19 +12,15 @@
 
   
 
-### So, new year new me right? What are my goals for this year?
+### So, new year new me right? What are my goals for 2023 then?
 
   
 
-- 🐍 I am going to become _fluent_ in Python
+- ✏️ I will pass 2,000 followers on my art page [Baked.blend](https://www.instagram.com/baked.blend/)
+- 🤖 I will create some interesting ESP8266 projects! (code for these will of course be put up here)
+- 🇳🇱 Ik zal veel meer Nederlands leren!
+- 🐙 I will contribute to more github projects this year than any other
 
-- ☕ I am going to nail down my Java skills once and for all
-
-- 🐧 I have switched over to using Linux on my laptop and intend on getting immersed in the envirnment
-
-- 🇳🇱 Ik leer Nederland!
-
-- ✏️ Blender has become a big hobby of mine and I am looking to apply it to gamedev as well as [ThreeJS](https://github.com/mrdoob/three.js/) projects
 
 ---
 
